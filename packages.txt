@@ -1,0 +1,6 @@
+tokenizers/punkt
+tokenizers/punkt_tab
+taggers/averaged_perceptron_tagger
+corpora/stopwords
+corpora/wordnet
+corpora/omw-1.4
